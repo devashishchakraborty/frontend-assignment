@@ -368,6 +368,7 @@ body {
     grid-template-columns: repeat(4, 330px);
     grid-template-rows: repeat(2, 420px);
     gap: 24px;
+    margin: 0 auto;
 }
 
 .product-card {
@@ -606,5 +607,7 @@ body {
 
 footer a{
     display: flex;
+    align-items: center;
+    gap: 8px;
     color: white;
 }
