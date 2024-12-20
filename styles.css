@@ -365,8 +365,8 @@ body {
 
 .product-grid {
     display: grid;
-    grid-template-columns: repeat(4, 312px);
-    grid-template-rows: repeat(2, 400px);
+    grid-template-columns: repeat(4, 330px);
+    grid-template-rows: repeat(2, 420px);
     gap: 24px;
 }
 
